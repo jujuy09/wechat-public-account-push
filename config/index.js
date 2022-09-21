@@ -64,7 +64,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oWPAE56mmoJeP--bCMhWiFQNL5zo",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "lR1HlMSKWMaARIKSF4qWiijYsPuEJTTqRQ-1z0RRRAA",
+      useTemplateId: "A0XJEs_0tc1QSGoL9QzPOili9sx3eKJp_TGTmjMBOWk",
       // 所在省份
       province: "四川",
       // 所在城市
@@ -96,7 +96,7 @@ export const USER_CONFIG = {
       city: "",
       horoscopeDate: '',
       horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      openUrl: "",
       festivals: [],
       customizedDateList: []
     },
@@ -108,7 +108,7 @@ export const USER_CONFIG = {
       city: "",
       horoscopeDate: '',
       horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      openUrl: "",
       festivals: [],
       customizedDateList: []
     },
@@ -120,7 +120,7 @@ export const USER_CONFIG = {
       city: "",
       horoscopeDate: '',
       horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
+      openUrl: "",
       festivals: [],
       customizedDateList: []
     },
