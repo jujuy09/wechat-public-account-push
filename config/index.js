@@ -83,7 +83,7 @@ export const USER_CONFIG = {
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
         // 在一起的日子
-        {"keyword": "love_day", date: "2018-01-15"},
+        {"keyword": "love_day", date: "2019-01-15"},
         // 认识的纪念日
         {"keyword": "marry_day", date: "2017-01-17"},
       ]
@@ -133,7 +133,7 @@ export const USER_CONFIG = {
    */
   
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "lR1HlMSKWMaARIKSF4qWiijYsPuEJTTqRQ-1z0RRRAA",
+  CALLBACK_TEMPLATE_ID: "A0XJEs_0tc1QSGoL9QzPOili9sx3eKJp_TGTmjMBOWkA",
   
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
